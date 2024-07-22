@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\bin\Debug\net8.0\FileHandlingPOC.exe
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\bin\Debug\net8.0\FileHandlingPOC.deps.json
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\bin\Debug\net8.0\FileHandlingPOC.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\bin\Debug\net8.0\FileHandlingPOC.dll
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\bin\Debug\net8.0\FileHandlingPOC.pdb
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\FileHandlingPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\FileHandlingPOC.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\FileHandlingPOC.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\FileHandlingPOC.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\FileHandlingPOC.dll
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\refint\FileHandlingPOC.dll
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\FileHandlingPOC.pdb
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\FileHandlingPOC.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\FileHandlingPOC\obj\Debug\net8.0\ref\FileHandlingPOC.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sreerag.babu\\source\\repos\\SaveUserNameFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D1AC69-26E7-4070-8AC2-88DB061907F8}|SaveUserNameFile.csproj|c:\\users\\sreerag.babu\\source\\repos\\saveusernamefile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D1AC69-26E7-4070-8AC2-88DB061907F8}|SaveUserNameFile.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D1AC69-26E7-4070-8AC2-88DB061907F8}|SaveUserNameFile.csproj|c:\\users\\sreerag.babu\\source\\repos\\saveusernamefile\\views\\username.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6D1AC69-26E7-4070-8AC2-88DB061907F8}|SaveUserNameFile.csproj|solutionrelative:views\\username.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Username.txt",
+              "DocumentMoniker": "C:\\Users\\sreerag.babu\\source\\repos\\SaveUserNameFile\\Views\\Username.txt",
+              "RelativeDocumentMoniker": "Views\\Username.txt",
+              "ToolTip": "C:\\Users\\sreerag.babu\\source\\repos\\SaveUserNameFile\\Views\\Username.txt",
+              "RelativeToolTip": "Views\\Username.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-20T15:30:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sreerag.babu\\source\\repos\\SaveUserNameFile\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sreerag.babu\\source\\repos\\SaveUserNameFile\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:25:21.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

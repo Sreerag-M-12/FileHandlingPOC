@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\bin\Debug\net8.0\SaveUserNameFile.exe
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\bin\Debug\net8.0\SaveUserNameFile.deps.json
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\bin\Debug\net8.0\SaveUserNameFile.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\bin\Debug\net8.0\SaveUserNameFile.dll
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\bin\Debug\net8.0\SaveUserNameFile.pdb
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\SaveUserNameFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\SaveUserNameFile.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\SaveUserNameFile.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\SaveUserNameFile.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\SaveUserNameFile.dll
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\refint\SaveUserNameFile.dll
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\SaveUserNameFile.pdb
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\SaveUserNameFile.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\SaveUserNameFile\obj\Debug\net8.0\ref\SaveUserNameFile.dll
